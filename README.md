@@ -1,10 +1,10 @@
 # ADVERSARIAL GENERATIVE FLOWNETWORK FOR SOLVING VEHICLE ROUTING PROBLEMS
 
-See 
+[Adversarial Generative Flow Network for Solving Vehicle Routing Problems][paper-link]
 
-[Adversarial Generative Flow Network for Solving Vehicle Routing Problems]: https://openreview.net/forum?id=tBom4xOW1H
+For the paper associated with this codebase, see the link above.
 
- for the paper associated with this codebase.
+[paper-link]: https://openreview.net/forum?id=tBom4xOW1H
 
 ## CVRP
 
