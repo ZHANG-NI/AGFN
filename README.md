@@ -50,7 +50,8 @@ If you find this codebase useful, please consider citing the paper:
 @inproceedings{zhangadversarial,
   title={Adversarial Generative Flow Network for Solving Vehicle Routing Problems},
   author={Zhang, Ni and Yang, Jingfeng and Cao, Zhiguang and Chi, Xu},
-  booktitle={The Thirteenth International Conference on Learning Representations}
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
 }
 ```
 
