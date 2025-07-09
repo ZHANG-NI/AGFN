@@ -43,7 +43,7 @@ def read_routes(filepath):
 
 
 def get_lib_filename():
-    path = "HGS-CVRP-main/build/Release/libhgscvrp.so"
+    path = "./libhgscvrp.so"
     if os.path.isfile(path):
         return path
     else:
