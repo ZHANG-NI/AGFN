@@ -2,7 +2,7 @@
 
 [Adversarial Generative Flow Network for Solving Vehicle Routing Problems][paper-link]
 
-For the paper associated with this codebase, see the link above.
+Our paper is accepted by ICLR 2025. For the paper associated with this codebase, see the link above.
 
 [paper-link]: https://openreview.net/forum?id=tBom4xOW1H
 
@@ -54,5 +54,6 @@ If you find this codebase useful, please consider citing the paper:
   year={2025}
 }
 ```
+
 
 
