@@ -30,7 +30,7 @@ $python test_cvrp.py $N -p "path_to_checkpoint"
 
 ```cmd
 $cd tsp
-$python train_cvrp.py $N
+$python train_tsp.py $N
 ```
 
 $N is the nodes of the instances
@@ -39,7 +39,7 @@ $N is the nodes of the instances
 
 ```cmd
 $cd tsp
-$python test_cvrp.py $N -p "path_to_checkpoint"
+$python test_tsp.py $N -p "path_to_checkpoint"
 ```
 
 ## Reference
@@ -54,4 +54,5 @@ If you find this codebase useful, please consider citing the paper:
   year={2025}
 }
 ```
+
 
